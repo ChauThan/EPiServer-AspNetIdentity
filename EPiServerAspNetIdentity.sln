@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPiServerAspNetIdentity.CMS", "EPiServerAspNetIdentity.CMS\EPiServerAspNetIdentity.CMS.csproj", "{79A3ECD6-F555-430C-8483-EA3CD7995E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPiServerAspNetIdentity.Shared", "EPiServerAspNetIdentity.Shared\EPiServerAspNetIdentity.Shared.csproj", "{517463D7-E198-428C-B417-4E1259F15DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79A3ECD6-F555-430C-8483-EA3CD7995E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A3ECD6-F555-430C-8483-EA3CD7995E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A3ECD6-F555-430C-8483-EA3CD7995E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A3ECD6-F555-430C-8483-EA3CD7995E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517463D7-E198-428C-B417-4E1259F15DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517463D7-E198-428C-B417-4E1259F15DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517463D7-E198-428C-B417-4E1259F15DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517463D7-E198-428C-B417-4E1259F15DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B29E194-7BD8-4E5F-8E21-295849EA5700}
+	EndGlobalSection
+EndGlobal
